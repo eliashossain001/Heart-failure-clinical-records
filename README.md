@@ -2,7 +2,7 @@
 
 This project was focused on survival analysis of heart failure patients who were admitted to Institute of Cardiology and Allied hospital Faisalabad-Pakistan during April-December (2015). The dataset can be found in UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records 
 
-# This project is divided into 4 methods:
+# This project is divided into 4 part:
 1. Data Collection
 2. Data cleaning and preprocessing
 3. Data visualization
