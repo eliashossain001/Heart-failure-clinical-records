@@ -4,7 +4,7 @@ This project was focused on survival analysis of heart failure patients who were
 
 # Project Pipeline:
 
-![Colorful Marketing Mix Venn Diagram](https://user-images.githubusercontent.com/54431128/87174958-c8384e80-c2f9-11ea-8802-31a974bf9ede.png)
+![Colorful Marketing Mix Venn Diagram (1)](https://user-images.githubusercontent.com/54431128/87176410-e141ff00-c2fb-11ea-9d3c-1794b7f26fc6.png)
 
 # Pipeline Explanation
 
