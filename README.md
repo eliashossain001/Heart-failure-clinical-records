@@ -2,13 +2,10 @@
 
 This project was focused on survival analysis of heart failure patients who were admitted to Institute of Cardiology and Allied hospital Faisalabad-Pakistan during April-December (2015). The dataset can be found in UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records 
 
-# This project is divided into 4 part:
-1. Data Collection
-2. Data cleaning and preprocessing
-3. Data visualization
-4. Making the Predictive Machine Learning Model 
-5. Feature Engineering Pipeline
-6. Model Evaluation.
+# Project Pipeline:
+
+![Colorful Marketing Mix Venn Diagram](https://user-images.githubusercontent.com/54431128/87174958-c8384e80-c2f9-11ea-8802-31a974bf9ede.png)
+
 
 # The Algorithm has been used in this project:
 1. Logistic Regression 
