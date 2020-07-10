@@ -28,7 +28,7 @@ This project was focused on survival analysis of heart failure patients who were
 # Model Evaluation 
 1.  ROC-AUC curve
 2. Confusion Matrix
-3. Classification Report
+3. Classification Report (precision, recall, f1-score, support)
 
 # Deep Learning Approach:
 Artificial Neural Network (ANN)
