@@ -17,13 +17,9 @@ This project was focused on survival analysis of heart failure patients who were
 7. Model Deployment: When everything is ready, you have to come to this step and deploy the model using different web API.
 
 
-# The Algorithm has been used in this project:
-1. Logistic Regression 
-2. Support Vector Machine 
-3. DecisionTree Classifier 
-4. RandomForest 
-5. Naive Bayes 
-6. Adaptive Boosting
+# Algorithm Pipeline 
+
+![Three-Set Venn Diagram](https://user-images.githubusercontent.com/54431128/87177920-3b43c400-c2fe-11ea-875d-1770e201bb60.png)
 
 # Model Evaluation 
 1.  ROC-AUC curve
