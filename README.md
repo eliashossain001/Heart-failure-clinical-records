@@ -29,6 +29,11 @@ This project was focused on survival analysis of heart failure patients who were
 # Deep Learning Approach:
 Artificial Neural Network (ANN)
 
+# Model Deployment Architecture & Setup
+![Machine-Learning-Model-Deployment-1](https://user-images.githubusercontent.com/54431128/87178771-814d5780-c2ff-11ea-9fb8-d25d7a617acf.png)
+
+NB: Work is currently underway to deploy the model for this project. The deployment is not over yet.
+
 # How to run this project?
 1. Install python 3 and anaconda
 2. Download this repository 
