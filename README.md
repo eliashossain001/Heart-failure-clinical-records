@@ -28,3 +28,8 @@ This project was focused on survival analysis of heart failure patients who were
 
 # Deep Learning Approach:
 Artificial Neural Network (ANN)
+
+# How to run this project?
+1. Install python 3 and anaconda
+2. Download this repository 
+3. Extract the Zip file and open the Notebook from your JupyterNotebook 
